@@ -1,0 +1,47 @@
+MyClipBox ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how your personal information is collected, used, and disclosed by MyClipBox.
+This Privacy Policy applies to our website, and its associated subdomains (collectively, our "Service") alongside our application, MyClipBox. By accessing or using our Service, you signify that you have read, understood, and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service.
+1. Information We Collect
+MyClipBox is primarily an offline-first application. This means that the majority of your data (video links, categories, notes) is stored locally on your device. We do not operate a central server to store your personal video collections.
+A. Data Stored Locally
+The following data is stored exclusively on your device's internal memory:
+The links to the videos you save.
+Thumbnails and metadata (titles, duration) extracted from those links.
+Categories and organization preferences.
+Personal notes added to videos.
+We do not have access to this data. If you uninstall the app or clear its data without creating a backup, this information will be lost.
+B. Clipboard Data
+MyClipBox may access your device's clipboard to detect if you have copied a link from a supported platform (YouTube, TikTok, Instagram, Vimeo).
+How we use it: To automatically populate the "Add Video" field for your convenience.
+Privacy: Clipboard data is processed locally on your device. We do not upload, share, or store your clipboard history on external servers.
+C. Biometric Data (Fingerprint/FaceID)
+If you purchase the PRO version, you may choose to secure the app using biometric authentication.
+How we use it: We use the standard Android Biometric API to verify your identity before unlocking the app.
+Privacy: We do not collect, store, or have access to your actual fingerprint or facial data. All biometric processing is handled securely by the Android operating system on your device.
+D. Crash Logs and Usage Data
+We may use third-party services (such as Google Play Services) to collect anonymous usage data and crash reports. This helps us understand how the app is used and fix bugs. This data is aggregated and cannot be used to identify you personally.
+2. Third-Party Services
+We may employ third-party companies and individuals due to the following reasons:
+To facilitate our Service;
+To provide the Service on our behalf;
+To perform Service-related services; or
+To assist us in analyzing how our Service is used.
+Google Play Billing:
+MyClipBox uses Google Play Billing for In-App Purchases (Pro Version). All financial transactions are handled directly by Google. We do not store or have access to your credit card details or billing information.
+External Platforms (YouTube, TikTok, Instagram, Vimeo):
+MyClipBox acts as a bookmarking tool. When you play a video, the app may open the content using the respective third-party application or a web view. We are not responsible for the content or privacy practices of these third-party platforms.
+Since MyClipBox interacts with YouTube content, users are bound by the YouTube Terms of Service and the Google Privacy Policy.
+3. Permissions
+The app requires specific permissions to function correctly:
+Internet Access: Required to fetch video metadata (titles, thumbnails) and check for PRO license status.
+Biometric Hardware: Required to enable the app lock feature (PRO only).
+Storage (Read/Write): Required only if you choose to manually Export or Import a backup file (.json) of your library.
+4. Data Security
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Local Backups: MyClipBox allows you to create a local backup file (.json). You are responsible for the safe storage of this file. If you share this file, others may access your video collection data.
+5. Children's Privacy
+These Services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us.
+6. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately after they are posted on this page.
+7. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at:
+[LEBEL.APPS@GMAIL.COM]
